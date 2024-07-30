@@ -1,31 +1,32 @@
-Advanced Image Gallery
+# Advanced Image Gallery
 
-Overview
+# Overview
 
-A modern and responsive image gallery with:
+# A modern and responsive image gallery with:
 
 Grid layout
 Modal/lightbox view
 Search and filter options
 Upload form
-Setup
+
+# Setup
 
 Clone the repo:
 
-git clone https://github.com/yourusername/image-gallery.git
+git clone https://github.com/AayushGunjal/Mainflow-internship-Task6
 
-Install dependencies:
+# Install dependencies:
 npm install
 
-Start the app:
+# Start the app:
 npm start
 
-Features
+# Features
 View images in a modal
 Search and filter images
 Upload new images
 
-Technologies
+# Technologies
 React
 CSS/SCSS
 Font Awesome
